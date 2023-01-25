@@ -1,0 +1,23 @@
+site_name: LoRaBridge Literature
+theme: readthedocs
+use_directory_urls: false
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+plugins:
+  - include-markdown
+nav:
+  - index.md
+  - Setup:
+    - setup/Installation.md
+    - setup/How-to-use.md
+    - setup/Troubleshooting.md
+    - setup/config.md
+  - System Overview:
+    - system_overview/hw_components.md
+    - system_overview/sw_components.md
+  - Development:
+    - development/dev.md
+  - Additional:
+    - additional/technical.md
