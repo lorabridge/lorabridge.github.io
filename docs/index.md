@@ -1,3 +1,10 @@
+!!! warning "Deprecation Notice"
+    ##### Please visit the [**new Documentation**](https://lorabridge2.github.io/) for detailed information about changes, setup and usage instructions.
+    
+    LoRaBridge (v1.0) is **deprecated** and superseded by [**LoRaBridge2**](https://github.com/lorabridge2).
+      
+    [**LoRaBridge2**](https://github.com/lorabridge2) features for instance **home automation** support, better **data reduction** as well as a **revamped code base**, but requires a different [LoRaWAN module](https://lorabridge2.github.io/system_overview/hw_components.html).
+    
 # LoRaBridge Documentation
 
 <img src="assets/loradatabridge_logo_large.png" 
